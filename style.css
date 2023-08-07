@@ -3,8 +3,8 @@ body{
 }
 
 .card{
-    border: 1px solid grey;
-    background: lightgrey;
+    border: 1px solid lightpink;
+    background: lightpink;
     border-radius: 1.38888889vw;
     width: 300px;
     height: 400px;
@@ -16,8 +16,8 @@ body{
 }
 
 .card:hover{
-    border: 1px solid blue;
-    background: aliceblue;
+    border: 1px solid purple;
+    background: rgb(199, 67, 199);
     border-radius: 1.38888889vw;
     width: 300px;
     height: 400px;
